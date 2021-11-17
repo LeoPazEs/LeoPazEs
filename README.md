@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Leonardo Paz Estevam and i am a student :D
+### Hi there 👋, my name is Leonardo Paz Estevam and i am currently working as a Junior Developer in DETRAN-AL
+
 
 - Languages 👩‍💻 
 
